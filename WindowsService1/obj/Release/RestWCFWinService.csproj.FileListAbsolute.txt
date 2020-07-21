@@ -1,0 +1,24 @@
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\WindowsService1\bin\Release\WindowsService1.exe.config
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\WindowsService1\bin\Release\WindowsService1.exe
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\WindowsService1\bin\Release\WindowsService1.pdb
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\WindowsService1\bin\Release\RestWCFServiceLibrary.dll
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\WindowsService1\bin\Release\RestWCFServiceLibrary.pdb
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\WindowsService1\bin\Release\RestWCFServiceLibrary.dll.config
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\WindowsService1\obj\Release\RestWCFWinService.csprojAssemblyReference.cache
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\WindowsService1\obj\Release\RestWCFWinService.csproj.CoreCompileInputs.cache
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\WindowsService1\obj\Release\RestWCFWinService.csproj.CopyComplete
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\WindowsService1\obj\Release\WindowsService1.exe
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\WindowsService1\obj\Release\WindowsService1.pdb
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\WindowsService1\bin\Release\Interop.WIA.dll
+D:\projects\Scanner\Ex-doc-scann-service\WindowsService1\bin\Release\WindowsService1.exe.config
+D:\projects\Scanner\Ex-doc-scann-service\WindowsService1\bin\Release\WindowsService1.exe
+D:\projects\Scanner\Ex-doc-scann-service\WindowsService1\bin\Release\WindowsService1.pdb
+D:\projects\Scanner\Ex-doc-scann-service\WindowsService1\bin\Release\RestWCFServiceLibrary.dll
+D:\projects\Scanner\Ex-doc-scann-service\WindowsService1\bin\Release\Interop.WIA.dll
+D:\projects\Scanner\Ex-doc-scann-service\WindowsService1\bin\Release\RestWCFServiceLibrary.pdb
+D:\projects\Scanner\Ex-doc-scann-service\WindowsService1\bin\Release\RestWCFServiceLibrary.dll.config
+D:\projects\Scanner\Ex-doc-scann-service\WindowsService1\obj\Release\RestWCFWinService.csprojAssemblyReference.cache
+D:\projects\Scanner\Ex-doc-scann-service\WindowsService1\obj\Release\RestWCFWinService.csproj.CoreCompileInputs.cache
+D:\projects\Scanner\Ex-doc-scann-service\WindowsService1\obj\Release\RestWCFWinService.csproj.CopyComplete
+D:\projects\Scanner\Ex-doc-scann-service\WindowsService1\obj\Release\WindowsService1.exe
+D:\projects\Scanner\Ex-doc-scann-service\WindowsService1\obj\Release\WindowsService1.pdb

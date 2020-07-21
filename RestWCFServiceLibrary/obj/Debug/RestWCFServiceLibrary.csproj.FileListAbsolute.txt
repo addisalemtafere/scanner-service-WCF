@@ -1,0 +1,26 @@
+C:\PROJECT\STAR-P\WcfRestfulWithWindowsHostDemo\RestWCFServiceLibrary\bin\Debug\RestWCFServiceLibrary.dll.config
+C:\PROJECT\STAR-P\WcfRestfulWithWindowsHostDemo\RestWCFServiceLibrary\bin\Debug\RestWCFServiceLibrary.dll
+C:\PROJECT\STAR-P\WcfRestfulWithWindowsHostDemo\RestWCFServiceLibrary\bin\Debug\RestWCFServiceLibrary.pdb
+C:\PROJECT\STAR-P\WcfRestfulWithWindowsHostDemo\RestWCFServiceLibrary\obj\Debug\RestWCFServiceLibrary.csprojResolveAssemblyReference.cache
+C:\PROJECT\STAR-P\WcfRestfulWithWindowsHostDemo\RestWCFServiceLibrary\obj\Debug\RestWCFServiceLibrary.dll
+C:\PROJECT\STAR-P\WcfRestfulWithWindowsHostDemo\RestWCFServiceLibrary\obj\Debug\RestWCFServiceLibrary.pdb
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFServiceLibrary\bin\Debug\RestWCFServiceLibrary.dll.config
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFServiceLibrary\bin\Debug\RestWCFServiceLibrary.dll
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFServiceLibrary\bin\Debug\RestWCFServiceLibrary.pdb
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFServiceLibrary\obj\Debug\RestWCFServiceLibrary.csprojAssemblyReference.cache
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFServiceLibrary\obj\Debug\RestWCFServiceLibrary.csproj.CoreCompileInputs.cache
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFServiceLibrary\obj\Debug\RestWCFServiceLibrary.dll
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFServiceLibrary\obj\Debug\RestWCFServiceLibrary.pdb
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFServiceLibrary\bin\Debug\Interop.WIA.dll
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFServiceLibrary\obj\Debug\Interop.WIA.dll
+D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFServiceLibrary\obj\Debug\RestWCFServiceLibrary.csproj.ResolveComReference.cache
+D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\bin\Debug\RestWCFServiceLibrary.dll.config
+D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\bin\Debug\RestWCFServiceLibrary.dll
+D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\bin\Debug\RestWCFServiceLibrary.pdb
+D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\bin\Debug\Interop.WIA.dll
+D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\obj\Debug\Interop.WIA.dll
+D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\obj\Debug\RestWCFServiceLibrary.csproj.ResolveComReference.cache
+D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\obj\Debug\RestWCFServiceLibrary.csproj.CoreCompileInputs.cache
+D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\obj\Debug\RestWCFServiceLibrary.dll
+D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\obj\Debug\RestWCFServiceLibrary.pdb
+D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\obj\Debug\RestWCFServiceLibrary.csprojAssemblyReference.cache
