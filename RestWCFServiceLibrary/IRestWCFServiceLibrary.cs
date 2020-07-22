@@ -7,8 +7,8 @@ namespace RestWCFServiceLibrary
     [ServiceContract(SessionMode = SessionMode.NotAllowed)]
     public interface IRestWCFServiceLibrary
     {
-        
-   
+
+
 
         [OperationContract]
         [WebInvoke(Method = "GET",
@@ -35,7 +35,7 @@ namespace RestWCFServiceLibrary
                 ResponseFormat = WebMessageFormat.Json,
                     RequestFormat = WebMessageFormat.Json
                    )]
-       
+
 
         bool IsInstalledFlag();
 
@@ -78,14 +78,6 @@ namespace RestWCFServiceLibrary
             get;
             set;
         }
-    }
-
-    public sealed class CapValue
-    {
-        public string Name { get; set; }
-
-
-        public byte[] RawValue { get; set; }
     }
 
 

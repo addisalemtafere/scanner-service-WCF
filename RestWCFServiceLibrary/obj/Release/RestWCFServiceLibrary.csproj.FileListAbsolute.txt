@@ -8,13 +8,3 @@ D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFService
 D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFServiceLibrary\obj\Release\Interop.WIA.dll
 D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFServiceLibrary\obj\Release\RestWCFServiceLibrary.csproj.ResolveComReference.cache
 D:\projects\Scanner\sample  code\WcfRestfulWithWindowsHostDemo_v1\RestWCFServiceLibrary\bin\Release\Interop.WIA.dll
-D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\bin\Release\RestWCFServiceLibrary.dll.config
-D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\bin\Release\RestWCFServiceLibrary.dll
-D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\bin\Release\RestWCFServiceLibrary.pdb
-D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\bin\Release\Interop.WIA.dll
-D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\obj\Release\Interop.WIA.dll
-D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\obj\Release\RestWCFServiceLibrary.csproj.ResolveComReference.cache
-D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\obj\Release\RestWCFServiceLibrary.csproj.CoreCompileInputs.cache
-D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\obj\Release\RestWCFServiceLibrary.dll
-D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\obj\Release\RestWCFServiceLibrary.pdb
-D:\projects\Scanner\Ex-doc-scann-service\RestWCFServiceLibrary\obj\Release\RestWCFServiceLibrary.csprojAssemblyReference.cache
